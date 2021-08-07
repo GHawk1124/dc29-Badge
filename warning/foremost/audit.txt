@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Aug  7 13:36:20 2021
+Invocation: foremost -i wgn.png 
+Output directory: /home/ghawk/dev/defcon29/warning/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: wgn.png
+Start: Sat Aug  7 13:36:20 2021
+Length: 500 KB (512814 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	     500 KB 	          0 	  (1385 x 1385)
+Finish: Sat Aug  7 13:36:20 2021
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Aug  7 13:36:20 2021
