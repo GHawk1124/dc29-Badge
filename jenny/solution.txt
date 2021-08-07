@@ -1,0 +1,7 @@
+543
+HTTP/2 301
+date: Sat, 07 Aug 2021 20:12:22 GMT
+content-type: text/html
+content-length: 179
+location: https://defcon.org/signal/YourJourneyBegins/AlphabetShift/SandsSaharaAladdin/MC56F8006VLC/VendorSpeakerArtistCreatorHumanPressGoon/
+

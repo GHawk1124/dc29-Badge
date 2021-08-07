@@ -2727,3 +2727,17 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught e
 
 1628364079742	Marionette	INFO	Stopped listening on port 34495
 JavaScript error: resource://gre/modules/osfile/osfile_native.jsm, line 64: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsINativeOSFileInternalsService.read]
+1628366046417	geckodriver	INFO	Listening on 127.0.0.1:52289
+1628366046424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexK7Vys"
+1628366047192	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexK7Vys/search.json.mozlz4", (void 0)))
+1628366049426	Marionette	INFO	Listening on port 38297
+1628366049589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628366058584	Marionette	INFO	Stopped listening on port 38297
+1628366797875	geckodriver	INFO	Listening on 127.0.0.1:42951
+1628366797887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepEtlYk"
+1628366798639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepEtlYk/search.json.mozlz4", (void 0)))
+1628366800931	Marionette	INFO	Listening on port 42811
+1628366801096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628366802280	Marionette	INFO	Stopped listening on port 42811
