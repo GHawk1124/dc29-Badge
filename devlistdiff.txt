@@ -1,0 +1,6 @@
+25a26
+> hidraw2
+89a91
+> serial
+161a164
+> ttyACM0
