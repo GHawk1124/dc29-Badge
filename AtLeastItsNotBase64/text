@@ -1,0 +1,3 @@
+I'm sure you tried to run strings on the badge firmware.
+Real encryption isn't easy on a microcontroller,
+so what did we use to obfuscate the strings?
